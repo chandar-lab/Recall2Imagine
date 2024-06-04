@@ -3,7 +3,7 @@
 ---
 
 >  M. R. Samsami\*, A. Zholus\*, J. Rajendran, S. Chandar. Mastering Memory Tasks with World Models. ICLR 2024, top‑1.2% (oral) <br /> 
->  __[[Project Website]](https://recall2imagine.github.io)__  &nbsp; &nbsp; &nbsp;  __[[Paper]](https://arxiv.org/abs/2403.04253)__  &nbsp; &nbsp; &nbsp;  __[[Openreview]](https://openreview.net/forum?id=1vDArHJ68h)__  &nbsp; &nbsp; &nbsp;  __[[X Thread]](https://recall2imagine.github.io)__
+>  __[[Project Website]](https://recall2imagine.github.io)__  &nbsp; &nbsp; &nbsp;  __[[Paper]](https://arxiv.org/abs/2403.04253)__  &nbsp; &nbsp; &nbsp;  __[[Openreview]](https://openreview.net/forum?id=1vDArHJ68h)__  &nbsp; &nbsp; &nbsp;  __[[X Thread]](https://x.com/apsarathchandar/status/1772345328617824502)__
 
 ---
 
