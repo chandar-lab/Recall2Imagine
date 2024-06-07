@@ -218,18 +218,19 @@ popgym:
     script: train
     train_ratio: 64
     steps: 2e8
-  rssm.deter: 1024
   encoder.mlp_layers: 1
   decoder.mlp_layers: 1
   encoder.mlp_units: 512
   decoder.mlp_units: 512
   actor.inputs: [stoch, hidden]
   critic.inputs: [stoch, hidden]
-  ssm.n_layers: 3
-  rssm.units: 1024
   .*\.cnn_depth: 32
   .*\.layers: 2
   .*\.units: 512
+  rssm.units: 1024
+  rssm.deter: 512
+  rssm.hidden: 512
+  ssm.n_layers: 5
   encoder: {mlp_keys: 'observation', cnn_keys: '$^'}
   decoder: {mlp_keys: 'observation', cnn_keys: '$^'}
 
